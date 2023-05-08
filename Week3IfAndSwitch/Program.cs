@@ -1,0 +1,8 @@
+﻿//modulus - %
+
+int a = 25;
+int b = 8;
+
+int c = a % b; //matemaatika
+
+Console.WriteLine(c);
